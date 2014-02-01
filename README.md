@@ -1,4 +1,4 @@
-mouse-server
+mouse-cursors example
 ============
 
 npm install
